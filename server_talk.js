@@ -1,4 +1,9 @@
 'use strict';
+/*
+ServerTalk.js
+VERSION: 1.0.0
+Read README.md
+*/
 
 class ServerTalk {
 
